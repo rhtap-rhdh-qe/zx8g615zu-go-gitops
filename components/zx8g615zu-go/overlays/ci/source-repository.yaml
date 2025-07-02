@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zx8g615zu-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zx8g615zu-go
